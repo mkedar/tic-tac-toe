@@ -1,11 +1,10 @@
-package com.company;
 import java.util.Scanner;
 
 //Matan Kedar
 //06.15.20
+// (I did this before I learned arreys and for loops)
 
-
-public class Main
+public class tic-tac-toe
 {
     public static void main(String[] args)
     {
@@ -854,6 +853,7 @@ public class Main
             System.out.println("DRAW!");
             return;
         }
+
 
 
 
